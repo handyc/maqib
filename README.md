@@ -59,3 +59,39 @@ it's a virtual keyboard that you can use inside GitHub readme files
 </pre>
 </details>
 
+<details><summary>fake GitHub pinned</summary>
+<pre>
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+╰──────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ <a href="https://github.com/handyc/aks">aks</a>                                                                          │  
+│ aks is a utility for extracting n-grams from texts                           │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ ⬤C   ☆ 4                                                                    │  
+╰──────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
+│ <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><a href="https://stackoverflow.com/">test</a></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>                                                                                                              │  
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+</pre>
+</details>
+
