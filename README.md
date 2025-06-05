@@ -1,4 +1,4 @@
-# makeeb
+# maqib
 markdown virtual keyboard
 
 it's a virtual keyboard that you can use inside GitHub readme files
