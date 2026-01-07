@@ -98,5 +98,8 @@ it's a virtual keyboard that you can use inside GitHub readme files
 ╰──────────────────────────────────────────────────────────────────────────────╯
 
 </pre>
+
+![test](https://github.com/mojombo/github-flavored-markdown/issues/28)
+
 </details>
 
